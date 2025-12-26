@@ -27,10 +27,6 @@ project/
 ├── static/
 │ └── style.css
 └── README.md
-
-yaml
-Копировать код
-
 ---
 
 ## Installation & Run
@@ -40,17 +36,14 @@ pip install flask
 Create pass_and_us.json:
 
 json
-Копировать код
 {}
 Run the app:
 
 bash
-Копировать код
 python app.py
 Open in browser:
 
 cpp
-Копировать код
 http://127.0.0.1:5000/
 Routes
 / — Login page
